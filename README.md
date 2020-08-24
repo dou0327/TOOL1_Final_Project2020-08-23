@@ -1,4 +1,4 @@
-﻿[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dou0327/TOOL1_Final_Project2020-08-23/blob/master/project.ipynb/master)
+﻿[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dou0327/TOOL1_Final_Project2020-08-23/master)
 # Dataset and motivation slide
 I used the dataset from the Seaborn lib.
 and i want to understand the differences between penguins in different environments.
